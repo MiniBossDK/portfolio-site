@@ -1,0 +1,4 @@
+baseURL = 'https://daniellerche.dk/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
