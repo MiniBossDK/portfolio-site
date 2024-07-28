@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://daniellerche.dk/</loc>
+    <loc>http://localhost:61556/</loc>
     <lastmod>2024-06-29T09:17:10+02:00</lastmod>
   </url><url>
-    <loc>https://daniellerche.dk/posts/</loc>
+    <loc>http://localhost:61556/posts/</loc>
     <lastmod>2024-06-29T09:17:10+02:00</lastmod>
   </url><url>
-    <loc>https://daniellerche.dk/categories/</loc>
+    <loc>http://localhost:61556/posts/website-setup/</loc>
+    <lastmod>2024-06-29T09:17:10+02:00</lastmod>
   </url><url>
-    <loc>https://daniellerche.dk/tags/</loc>
+    <loc>http://localhost:61556/posts/traveller/</loc>
+    <lastmod>2024-06-29T09:17:10+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:61556/categories/</loc>
+  </url><url>
+    <loc>http://localhost:61556/tags/</loc>
   </url>
 </urlset>

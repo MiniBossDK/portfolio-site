@@ -1,5 +1,5 @@
 +++
-title = 'My First Post'
+title = 'Setting up my website with Hugo and Cloudflare Pages'
 date = 2024-06-29T09:17:10+02:00
 draft = true
 +++
